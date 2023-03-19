@@ -11,3 +11,5 @@ You can change the color of the text , and set alarm time .
 
 
 ![Alt Text](./files/Screenshot%20from%202023-03-19%2022-59-17.png)
+
+![Alt Text](./files/Screenshot%20from%202023-03-19%2023-15-54.png)
